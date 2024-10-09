@@ -1,0 +1,14 @@
+Lab 8: User ID controlled by request parameter, with unpredictable user IDs
+
+Target Goal
+Find the GUID for carlos and access his API Key
+
+Credentials
+wiener: peter 
+
+Steps to exploit 
+ 1. Log into wiener account 
+ 2. Loop through all post and find a post Carlos posted
+ 3. get carlos GUID
+ 4. get carlos API_key
+ 
